@@ -3,10 +3,10 @@
     line-height: 16pt;
 }
 .tei-front {
-    page-break-after: right;
+    page-break-after: avoid;
 }
 .tei-body2 {
-    page-break-after: right;
+    page-break-after: avoid;
 }
 .tei-head1 {
     font-size: 2.441em;
